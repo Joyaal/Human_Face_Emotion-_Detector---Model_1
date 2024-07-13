@@ -1,7 +1,7 @@
 # Human_Face_Emotion-_Detector---Model_1
 A simple ML program to detect the emotion in the human faces. 
 This program will detect and say the emotion in the face for an image which is uploaded.
-In order to run this program, you may need to download 6 files which can be found in the release part of this repository.
+In order to run this program, you may need to download 6 files which can be found in the RELEASES part of this repository.
 - Dataset for training and validation from kaggle - https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 - ML Model program file
 - GUI program file
